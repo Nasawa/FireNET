@@ -1,0 +1,4 @@
+C:\Users\rsi_cjohnson\Documents\Visual Studio 2010\Projects\FireNET\FireNET\bin\Debug\FireNET.dll
+C:\Users\rsi_cjohnson\Documents\Visual Studio 2010\Projects\FireNET\FireNET\bin\Debug\FireNET.pdb
+C:\Users\rsi_cjohnson\Documents\Visual Studio 2010\Projects\FireNET\FireNET\obj\Debug\FireNET.dll
+C:\Users\rsi_cjohnson\Documents\Visual Studio 2010\Projects\FireNET\FireNET\obj\Debug\FireNET.pdb
